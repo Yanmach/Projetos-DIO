@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(4, 36, 46);
+    font-family: 'Trebuchet MS';
+    color: white;
+    text-align: center;
+}
+a{
+    font-size: 20px;
+    border-radius: 10px;
+    padding: 10px;
+    display: block;
+    margin: 10px;
+    color: slateblue;
+}
