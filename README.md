@@ -59,4 +59,4 @@ Projeto desenvolvido por [Yan Machado de Souza] como parte do curso "HTML Web De
 
     Documentação oficial HTML - MDN Web Docs
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/Yanmach/Projetos-DIO/tree/main
